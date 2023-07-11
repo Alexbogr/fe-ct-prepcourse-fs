@@ -1,4 +1,4 @@
-![HenryLogo](../Assets//logoBannerHenry.png)
+rm m![HenryLogo](../Assets//logoBannerHenry.png)
 
 # **HOMEWORK 02 | COMANDOS - GIT - GITHUB**
 
